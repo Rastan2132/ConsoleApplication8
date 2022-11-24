@@ -3,9 +3,7 @@
 int main()
 {
     while (true)
-    {
         run();
-    }
 
 }
 
